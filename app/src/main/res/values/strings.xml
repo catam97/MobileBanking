@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MobileBankingProject</string>
+    <string name="LogIn">Log in</string>
+    <string name="FirstLogin">Because it`s your first time using our app, you have to change your password now.</string>
+    <string name="Change">Change</string>
+    <string name="LoginText">Please enter your credentials</string>
+    <string name="SuccessfullyChanged">You have successfully changed your password</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
